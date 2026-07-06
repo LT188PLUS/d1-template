@@ -1,0 +1,28 @@
+Tên  :    NOdeJS với WebpackodeJS với WebpackTên
+
+NodeJS với Webpack:
+  đẩy      :    :
+  Nhánh        :    [ "Chính xác" ]   :    [ "Chính xác" ]
+      yêu cầu kéo              :     :
+                    Nhánh                                   :          [ "Chính xác" ]     :     [ "Chính xác" ]
+
+công việc:
+                    xây dựng                                 :         :
+                    Chạy trốn                         :                   Ubuntu-lớp muộn nhất buntu-lớp muộn nhất                    :   Ubuntu-Latest
+
+     Chiến lược            :    :
+                 Ma trận                               :         :
+                                      chuyển đổi nút                                           :      [18.x, 20.x, 22.x]  :   [18.x, 20.x, 22.x]
+
+                   bước chân                              :          :
+    -    Sử dụng  :    hành động / thanh toán@v4 usesành động / thanh toán@v4 uses:  hành động / thanh toán@v4
+
+ -tên - Sử dụng Node.js ${ matrix.node-version } tên :           sử dụng Sử dụng Node.js ${{   Ma trận.phiên bản nút   }}
+                         sử dụng                                    :                         hành động/thiết lập nút@v4        ành động/thiết lập nút@v4                         :                    hành động/thiết lập nút@v4                      với                  
+                                       với                                                :          :
+                              Biến đổi nút                                       :          ${{                            Ma trận.phiên bản nút                            }} :  ${{                             Ma trận.phiên bản nút                             }}
+
+                 :         |                        :            X            ây dựng name                :     Tòa nhà
+               chạy
+   Cài đặt Npm   
+ Npx Webpack 
